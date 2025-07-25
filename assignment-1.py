@@ -39,26 +39,3 @@ print("Order Details: Customer ordered - {}, Customer toppings -{},bill payment"
 
 
 
-'''Enter Pizza ID: 1021
-enter customer name: mohith
-Enter customer number: 1234567891
-Enter Pizza Name: chicken
-Enter Price (INR): 200
-Enter Pizza Type (e.g., Veg/Non-Veg): non-veg
-Enter Size (e.g., Small/Medium/Large): large
-Enter Toppings (comma-separated): onion,cheese
-Enter Crust Type (e.g., Cheese Burst, Thin Crust): cheese burst
-enter the number of coupons: 2
-enter number of available discount: 2
-Enter Discount Percentage(e.g.,10%): 20
-Payment will be Online or cash: online
-
-Output:
-
-pizza_id, customer_name, customer_number: 1021,mohith,1234567891
-discount_Percentage: 20.00%
-Customer name:mohith 
-Contact No: 1234567891
-Price:₹200.0 
-Discount Percentage: 20.0% 
-Order Details: Customer ordered - chicken, Customer toppings -['onion', 'cheese'],bill payment
